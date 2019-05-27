@@ -3,7 +3,7 @@
 //  PostLocationWeb
 //
 //  Created by Sue on 2019/5/10.
-//  Copyright © 2019 eshore. All rights reserved.
+//  Copyright © 2019 sue.com. All rights reserved.
 //
 
 import Foundation
